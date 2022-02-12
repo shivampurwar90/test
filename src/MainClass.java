@@ -4,8 +4,8 @@ public class MainClass{
 		
 		System.out.println("=============");
 		
-		Rasim rasim=new Rasim();
-		rasim.printMsg();
+		Shamim sh=new Shamim();
+		sh.printMsg();
 		
 		
 		System.out.println("=============");
